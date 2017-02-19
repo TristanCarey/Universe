@@ -21,7 +21,7 @@ How to install it ?
 -------------------------------
 After installing 'Stylish', you'll have to 'write a new style', copy/paste the code in 'universe.css', name the style and then save ! Before installing it, I suggest you :
 
-* to install the font I used, namely 'Roboto' (https://www.fontsquirrel.com/fonts/roboto), 'Bebas Neue' (https://www.fontsquirrel.com/fonts/bebas-neue?q%5Bterm), 'Bokutachi no Gothic 2' (http://www.freejapanesefont.com/bokutachi-gothic-2-bold/) and if you want Meiryo, all of them are free so don't be shy.
+* to install the font I used, namely 'Roboto' (https://www.fontsquirrel.com/fonts/roboto), 'Bebas Neue' (https://www.fontsquirrel.com/fonts/bebas-neue), 'Bokutachi no Gothic 2' (http://www.freejapanesefont.com/bokutachi-gothic-2-bold/) and if you want Meiryo, all of them are free so don't be shy.
 * download Adblock Plus to kill the ads.
 
 NB : writing a MAL script is really a pain since there are a lot of section to change, that's why there are still some section unchanged (for example the 'users' section) and some minor stuff need to be change, if it really bothers you just post a comment about it and I'll see what I can do.
