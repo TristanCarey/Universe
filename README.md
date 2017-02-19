@@ -1,7 +1,7 @@
 # Universe
 
 ![screenshot](http://i.imgur.com/hzYfxUv.jpg)
-The Dragon Dentist was super interisting imo ! Been a while I haven't been at the dentist ... Anyway, follow the animu you saw with 'Universe' !
+The Dragon Dentist was super interesting imo ! Been a while I haven't been at the dentist ... Anyway, follow the animu you saw with 'Universe' !
 
 What's an userstyle ?
 -------------------------------
