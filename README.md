@@ -25,8 +25,8 @@ After installing 'Stylish', you'll have to 'write a new style', copy/paste the c
 * download Adblock Plus to kill the ads.
 
 NB : writing a MAL script is really a pain since there are a lot of section to change, that's why there are still some section unchanged (for example the 'users' section) and some minor stuff need to be change, if it really bothers you just post a comment about it and I'll see what I can do.
-Where can I find your works ?
 
+Where can I find your works ?
 -------------------------------
 I have a deviantart page : nicknameisfortheweak.deviantart.com
 I also submit my script in pastebin : http://pastebin.com/u/Catgrills
